@@ -6,3 +6,11 @@ nav ul li a{
 .nav_hock{
     font-weight: 800;
 }
+
+.btn-slide{
+    background-color: black;
+    color:white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius:50px ;
+}
