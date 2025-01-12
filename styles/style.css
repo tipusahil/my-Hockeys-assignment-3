@@ -21,6 +21,9 @@ nav ul li a{
    border:2px solid rgb(212, 211, 211);
 }
 
+h2 .text-black{
+    font-size: 56px;
+}
 
 
 @media screen  and (max-width:576px) {
