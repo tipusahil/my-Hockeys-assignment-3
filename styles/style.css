@@ -17,5 +17,14 @@ nav ul li a{
 
 
 .hero{
-    padding:10px 20px;
+    padding:10px 20px !important ;
+   border:2px solid rgb(212, 211, 211);
+}
+
+
+
+@media screen  and (max-width:576px) {
+    .div_fot{
+        flex-direction: column;
+    }
 }
